@@ -10,12 +10,8 @@ hosted in [Github pages](https://pages.github.com/).
 
 ## View the live demo
 
-[Vitae Live Demo](https://jekyller.github.io/vitae)
+[Vitae Live Demo](https://qinwang.tech)
 
-
-## Screenshots
-
-![resume page](https://raw.githubusercontent.com/jekyller/vitae/gh-pages/assets/images/vitae_screen.png)
 
 
 ## How to use it
