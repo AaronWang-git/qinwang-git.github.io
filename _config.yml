@@ -7,7 +7,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://qinwang-git.github.io
+url: qinwang-git.github.io
 author: Fábio Madeira
 
 # edit this section with your information
