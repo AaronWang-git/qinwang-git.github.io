@@ -17,19 +17,19 @@ baseurl: /
 title: Qin WANG's Resume
 name: Qin WANG
 email: qinwang@swin.edu.au
-email_full: mailto:youremail@me.com
-website: https://github.com/qinwang-git
-website_full: https://github.com/qinwang-git
-github: https://github.com/qinwang-git
+email_full: qinwang@swin.edu.au
+website: qinwang.tech
+website_full: qinwang.tech
+github: github.com/qinwang-git
 twitter: twitter
 tel: +61 451720409
-tel_full: tel:+440000000000
+tel_full:  +61 451720409
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
+  street: Liddiard ST
+  postcode: VIC 3122
+  city: Melbourne
+  country: Australia
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
