@@ -27,7 +27,7 @@ linkedin: randy-wang/
 address:
   city: Melbourne
   country: Australia
-google_analytics: UA-69300817-1
+google_analytics: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.6554705780577!2d145.03639461573272!3d-37.82153817975105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642329bf63f57%3A0xd18a10510bdc56c8!2sSwinburne%20University!5e0!3m2!1szh-CN!2sau!4v1620811493675!5m2!1szh-CN!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 # needed for travis-ci build
 exclude: [vendor]
