@@ -21,10 +21,18 @@
     <!-- <link rel="apple-touch-icon" href="static/img/me-icon-57.png"> -->
     <!-- <link rel="apple-touch-icon" sizes="72x72" href="static/img/me-icon-72.png"> -->
     <!-- <link rel="apple-touch-icon" sizes="114x114" href="static/img/me-icon-114.png"> -->
+    
+    <style>
+     .center {
+           text-align: center;
+           }
+     </style>
 </head>
+    
+    
 <body>
 <div class="container">
-    <header class="three columns">
+   <header class="three columns">
         <img src="{{ site.baseurl }}static/img/pic04.jpeg" class="me">
         <h1>{{ site.name }}</h1>
         <p>
@@ -46,16 +54,18 @@
             <a href="https://github.com/{{ site.github }}"><i class="fa fa-github"></i> Github</a> /
             <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i> Twitter</a>
         </p>
-    </header>
-    <div class="thirteen columns clearfix">
+   </header>
+    
+   <div class="thirteen columns clearfix">
 
         {{ content }}
 
-    <footer class="thirteen columns">
+    <footer class="center">
+    <!-- <footer class="thirteen columns"> -->
         <p>© All rights reserved. <br> Last updated on May, 2021.</p>
     </footer>
     </div>
-</div>
+   </div>
 
 
 <script>
