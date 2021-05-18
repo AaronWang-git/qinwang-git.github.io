@@ -8,24 +8,6 @@ Vitae is built with [skeleton](http://getskeleton.com/), powered by [Jekyll](htt
 hosted in [Github pages](https://pages.github.com/).
 
 
-## View the live demo
-
-[Vitae Live Demo](https://qinwang.tech)
-
-
-## Issues and contributing
-
-I have tested this install with Ruby v2.4.2p198 (Mac OS RVM) and Jekyll v3.6.2. If you run into any problems please log them on the [issue tracker](https://github.com/jekyller/vitae/issues).
-
-Feel free pull-request your patches and fixes.
-
-
-## Thanks
-
-A lot of the work had been already done by the Joao. Many thanks to him :smile:
-
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
-
 
 ## Copyright & License
 
